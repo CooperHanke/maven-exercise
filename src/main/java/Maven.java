@@ -2,7 +2,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.util.Scanner;
 
-public class Maven extends StringUtils{
+public class Maven {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter something: > ");
